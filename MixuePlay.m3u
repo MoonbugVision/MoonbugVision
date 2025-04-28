@@ -476,7 +476,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJ
 #EXTINF:-1 tvg-id="RT.id" group-title="News" ch-number="150" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-m.png",Russia Today HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://dsgtq5sngxkde.cloudfront.netid/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
 #EXTINF:-1 tvg-id="EURONEWS.id" group-title="News" ch-number="151" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",Euronews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
