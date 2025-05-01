@@ -338,7 +338,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="tvN.HD.id" group-title="Entertainment" ch-number="77" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",TVN
+#EXTINF:-1 tvg-id="tvN.HD.id" group-title="Entertainment" ch-number="77" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",tvN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash/tvN.mpd
@@ -378,12 +378,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
-#EXTINF:-1 tvg-id="Warner.id" group-title="Entertainment" ch-number="84" tvg-logo="https://www.visionplus.id/images/repository/640/640-LOGO-m.png",Warner TV HD
+#EXTINF:-1 tvg-id="Warner.id" group-title="Entertainment" ch-number="84" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-id="HITS.Now.id" group-title="Entertainment" ch-number="85" tvg-logo="https://www.visionplus.id/images/repository/640/640-LOGO-m.png",HITS Now HD
+#EXTINF:-1 tvg-id="HITS.Now.id" group-title="Entertainment" ch-number="85" tvg-logo="https://images.indihometv.com/assets/88_HITSNOW_2025_03_17_15_25_11.png",HITS Now HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
@@ -404,19 +404,19 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotai
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="Asian.Food.Network.HD.id" group-title="Lifestyle" ch-number="94" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Asian Food Network HD
+#EXTINF:-1 tvg-id="Asian.Food.Network.HD.id" group-title="Lifestyle" ch-number="94" tvg-logo="https://images.indihometv.com/assets/88_AFN_2025_03_17_14_44_55.png",Asian Food Network HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="The.Learning.Channel.HD.-.TLC.id" group-title="Lifestyle" ch-number="95" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",TLC HD
+#EXTINF:-1 tvg-id="The.Learning.Channel.HD.-.TLC.id" group-title="Lifestyle" ch-number="95" tvg-logo="https://images.indihometv.com/assets/88_TLC_2025_03_17_15_17_48.png",TLC HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
-#EXTINF:-1 tvg-id="HGTV.id" group-title="Lifestyle" ch-number="96" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",HGTV HD
+#EXTINF:-1 tvg-id="HGTV.id" group-title="Lifestyle" ch-number="96" tvg-logo="https://images.indihometv.com/assets/88_HGTV_2025_03_17_15_00_17.png",HGTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
@@ -432,7 +432,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash/Rockente
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1 tvg-id="FashionTV.id" group-title="Lifestyle" ch-number="100" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV.id" group-title="Lifestyle" ch-number="100" tvg-logo="https://thumbor.prod.vidiocdn.com/Q7oh7tRgcUcmCX5tGE7vneNi9WU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6511/4dd1c5.png",Fashion TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
@@ -471,19 +471,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
 https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
-#EXTINF:-1 tvg-id="Animal.Planet.HD.id" group-title="Knowledge" ch-number="112" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal.Planet.HD.id" group-title="Knowledge" ch-number="112" tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png",Animal Planet HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.id" group-title="Knowledge" ch-number="113" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Discovery Channel HD 
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.id" group-title="Knowledge" ch-number="113" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERY_2025_03_17_15_36_07.png",Discovery Channel HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 tvg-id="Discovery.Asia.id" group-title="Knowledge" ch-number="114" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Discovery Asia HD
+#EXTINF:-1 tvg-id="Discovery.Asia.id" group-title="Knowledge" ch-number="114" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png",Discovery Asia HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
@@ -567,7 +567,7 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 
-#EXTINF:-1 tvg-id="CNN.International.id" group-title="News" ch-number="145" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",CNN International HD
+#EXTINF:-1 tvg-id="CNN.International.id" group-title="News" ch-number="145" tvg-logo="https://images.indihometv.com/assets/88_CNN_2025_03_17_14_54_58.png",CNN International HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
@@ -606,7 +606,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Life/sa_dash/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
 https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
 
-#EXTINF:-1 tvg-id="UChannel.id" group-title="Religion" ch-number="155" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",U-Channel
+#EXTINF:-1 tvg-id="UChannel.id" group-title="Religion" ch-number="155" tvg-logo="https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png",U-Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
