@@ -156,7 +156,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyahnow/sa_dash/TVMuhamm
 #EXTINF:-1 tvg-id="ORIGINALS.HD.id" group-title="Movies" ch-number="38" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Originals HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-https://cdsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
 #EXTINF:-1 tvg-id="BUDDY.STARS.HD.id" group-title="Movies" ch-number="39" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Buddy Stars HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
