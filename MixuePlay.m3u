@@ -55,7 +55,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Moji.id" group-title="National TV" ch-number="11" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",MOJI
+#EXTINF:-1 tvg-id="MOJI.id" group-title="National TV" ch-number="11" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",MOJI
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -67,7 +67,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 tvg-id="RTV.id" group-title="National TV" ch-number="13" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
+#EXTINF:-1 tvg-id="Rajawali.TV.id" group-title="National TV" ch-number="13" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash/RTV.mpd
@@ -111,7 +111,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mp
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTINF:-1 tvg-id="MDTV.id" group-title="National TV" ch-number="25" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV HD
+#EXTINF:-1 tvg-id="NET.TV.id" group-title="National TV" ch-number="25" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
