@@ -3,7 +3,7 @@
 
 ##########################MIXUEPLAY##########################
 
-#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="Information" ch-number="1" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png",Preview Channel
+#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="Information" ch-number="1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
