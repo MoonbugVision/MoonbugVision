@@ -743,7 +743,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
 
 #EXTINF:-1 tvg-id="RCTI.HD.id" group-title="Malaysia" ch-number="201" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png",RCTI World HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/sc1.php?id=201
 https://fta3-cdn-flr.visionplus.id/out/v1/c0131a4c400d429fb870ed033ec90e8e/index.mpd
 
