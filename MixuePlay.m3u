@@ -55,25 +55,25 @@ https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Indosiar.HD.id" group-title="National TV" ch-number="10" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="MOJI.id" group-title="National TV" ch-number="11" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",MOJI
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="ANTV.id" group-title="National TV" ch-number="12" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Rajawali.TV.id" group-title="National TV" ch-number="13" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -85,19 +85,19 @@ https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Metro.TV.id" group-title="National TV" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="BTV.id" group-title="News" ch-number="17" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -109,7 +109,7 @@ https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash/BeritaSatu.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="SEA.TODAY.id" group-title="News" ch-number="19" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-m.png",SEA Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -121,9 +121,9 @@ https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="NET.TV.id" group-title="National TV" ch-number="25" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV
+#EXTINF:-1 tvg-id="NET.TV.id" group-title="National TV" ch-number="25" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
@@ -133,13 +133,13 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="JAKTV.id" group-title="National TV" ch-number="27" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",JAKTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Bali.TV.id" group-title="National TV" ch-number="28" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -157,7 +157,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/f16b53f0d5ed459da208c459049c9bb0/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
-https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Tawaf.TV.id" group-title="Religion" ch-number="31" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png",Tawaf TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -211,7 +211,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Cinema.World.id" group-title="Movies" ch-number="45" tvg-logo="https://www.visionplus.id/images/repository/611/611-LOGO-m.png",CinemaWorld HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -225,7 +225,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="CCM.id" group-title="Movies" ch-number="47" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -237,13 +237,13 @@ https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Zee.Bioskop.id" group-title="Movies" ch-number="49" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-m.png",Zee Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Galaxy.Premium.id" group-title="Movies" ch-number="50" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png",Galaxy Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -299,7 +299,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Nick.Jr..HD.id" group-title="Kids" ch-number="62" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr. HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -311,13 +311,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.id" group-title="Kids" ch-number="66" tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Zoomoo.id" group-title="Kids" ch-number="67" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",ZooMoo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -329,13 +329,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="Animax.id" group-title="Entertainment" ch-number="69" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png",Animax HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
 #EXTINF:-1 tvg-id="My Kidz.id" group-title="Kids" ch-number="66" tvg-logo="https://www.visionplus.id/images/repository/629/629-LOGO-m.png",My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
