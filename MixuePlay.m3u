@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz"
 
 
 ##########################MIXUEPLAY##########################
@@ -697,7 +697,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd|user-
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="TRT World.id" group-title="News" ch-number="165" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World HD
+#EXTINF:-1 tvg-id="TRT.World.HD.mt" group-title="News" ch-number="165" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-m.png",TRT World HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
@@ -733,7 +733,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd|user-agent=Ex
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
 https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="EWTN.id" group-title="Religion" ch-number="171" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-m.png",EWTN
+#EXTINF:-1 tvg-id="EWTN.mt" group-title="Religion" ch-number="171" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-m.png",EWTN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
