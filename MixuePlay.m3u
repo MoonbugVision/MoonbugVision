@@ -283,7 +283,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTINF:-1 tvg-id="CBeebies.id" group-title="Kids" ch-number="60" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBeebies
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" group-title="Kids" ch-number="60" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
@@ -295,7 +295,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Nick.Jr..HD.id" group-title="Kids" ch-number="62" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr. HD
+#EXTINF:-1 tvg-id="Nick.Junior.id" group-title="Kids" ch-number="62" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr. HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
@@ -319,7 +319,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd|u
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTINF:-1 tvg-id="Nickelodeon.id" group-title="Kids" ch-number="68" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.Asia.HD.sg" group-title="Kids" ch-number="68" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
@@ -337,7 +337,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd|user-ag
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="Dreamworks.HD.id" group-title="Kids" ch-number="71" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",DreamWorks HD
+#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" group-title="Kids" ch-number="71" tvg-logo="https://www.visionplus.id/images/repository/630/630-LOGO-m.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -379,7 +379,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd|user-agent=Ex
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="NHK.World.Premium.id" group-title="Knowledge" ch-number="80" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
+#EXTINF:-1 tvg-id="NHK.World.Premium.sg" group-title="Knowledge" ch-number="80" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png",NHK World Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -685,13 +685,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd|user-
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="DW.English.id" group-title="News" ch-number="163" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DW English HD
+#EXTINF:-1 tvg-id="DW.(English).id" group-title="News" ch-number="163" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-m.png",DW English HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="France.24.English.id" group-title="News" ch-number="164" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png",France 24 English
+#EXTINF:-1 tvg-id="France.24.id" group-title="News" ch-number="164" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-m.png",France 24 English
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
@@ -799,7 +799,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd|user-agen
 #KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
 https://atemeshield1-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="NHK.World.id" group-title="Entertainment" ch-number="182" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World Japan HD
+#EXTINF:-1 tvg-id="nhk.world.Japan.id" group-title="Entertainment" ch-number="182" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
